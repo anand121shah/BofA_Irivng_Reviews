@@ -7,7 +7,7 @@ This repository contains code for analyzing Google reviews using Python. The cod
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/irving-google-reviews.git
+git clone https://github.com/as.bestinclass/irving-google-reviews.git
 ```
 
 2. Install the required dependencies:
