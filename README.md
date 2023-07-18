@@ -27,8 +27,8 @@ pip install -r requirements.txt
    - Follow the instructions and code comments to execute the tasks step by step.
    - Experiment with different parameters, algorithms, and visualizations as desired.
   
-
 ##Dependencies:
+
 textblob
 sklearn.linear_model
 sklearn.tree
