@@ -26,6 +26,23 @@ pip install -r requirements.txt
    - Open the `irvingGoogleReviews.ipynb` Jupyter Notebook.
    - Follow the instructions and code comments to execute the tasks step by step.
    - Experiment with different parameters, algorithms, and visualizations as desired.
+  
+
+##Dependencies:
+textblob
+sklearn.linear_model
+sklearn.tree
+dateutil.relativedelta
+sklearn.feature_extraction.text
+re
+matplotlib.pyplot
+sklearn.model_selection
+sklearn.svm
+sklearn.ensemble
+sklearn.metrics
+dateutil.parser
+pandas
+urllib.parse
 
 ## Results
 
