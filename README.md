@@ -7,7 +7,7 @@ This repository contains code for analyzing Google reviews using Python. The cod
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/as.bestinclass/irving-google-reviews.git](https://github.com/as-bestinclass/BofA_Irivng_Reviews.git)
+git clone https://github.com/as-bestinclass/irving-google-reviews.git
 ```
 
 2. Install the required dependencies:
@@ -27,26 +27,34 @@ pip install -r requirements.txt
    - Follow the instructions and code comments to execute the tasks step by step.
    - Experiment with different parameters, algorithms, and visualizations as desired.
   
-##Dependencies:
+## Dependencies
 
-textblob
-sklearn.linear_model
-sklearn.tree
-dateutil.relativedelta
-sklearn.feature_extraction.text
-re
-matplotlib.pyplot
-sklearn.model_selection
-sklearn.svm
-sklearn.ensemble
-sklearn.metrics
-dateutil.parser
-pandas
-urllib.parse
+The following dependencies are required to run the code:
+
+- textblob
+- sklearn.linear_model
+- sklearn.tree
+- dateutil.relativedelta
+- sklearn.feature_extraction.text
+- re
+- matplotlib.pyplot
+- sklearn.model_selection
+- sklearn.svm
+- sklearn.ensemble
+- sklearn.metrics
+- dateutil.parser
+- pandas
+- urllib.parse
+
+You can install these dependencies using the following command:
+
+```bash
+pip install textblob sklearn dateutil matplotlib pandas
+```
 
 ## Results
 
-- The code generates insights and analysis on the Google reviews data, including sentiment analysis, sentiment distribution, data visualizations, and machine learning classification accuracy.
+The code generates insights and analysis on the Google reviews data, including sentiment analysis, sentiment distribution, data visualizations, and machine learning classification accuracy.
 
 ## Contributing
 
