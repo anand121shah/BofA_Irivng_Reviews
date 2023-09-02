@@ -56,6 +56,3 @@ pip install textblob sklearn dateutil matplotlib pandas
 
 The code generates insights and analysis on the Google reviews data, including sentiment analysis, sentiment distribution, data visualizations, and machine learning classification accuracy. 📈🤓
 
-## Contributing 👥
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. 🙌❤️
